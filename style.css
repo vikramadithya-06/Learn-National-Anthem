@@ -9,7 +9,7 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center !important;
-    margin-right: 16%;
+    margin-left: 16%;
 }
 
 h1 {
@@ -51,6 +51,7 @@ h3 {
     background-size: 140% 100%;
     background-repeat: no-repeat;
 }
+
 
 
 
