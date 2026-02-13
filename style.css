@@ -23,6 +23,7 @@ h3 {
     color: #0B1F4B;
     font-weight: bold;
     text-shadow: 1px 2px 3px white;
+    text-align: center;
 }
 
 .color {
@@ -50,5 +51,6 @@ h3 {
     background-size: 140% 100%;
     background-repeat: no-repeat;
 }
+
 
 
