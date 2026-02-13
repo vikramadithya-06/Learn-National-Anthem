@@ -1,6 +1,5 @@
 body {
     font-style: italic;
-    animation-direction: alternate;
     padding: 0px;
     border-style: inset;
     scroll-behaviour: smooth;
@@ -41,7 +40,6 @@ h3 {
     display: block;
     color: white;
     text-decoration: none;
-    padding: 20px;
     background: #444;
     float: left;
     height: 100vh;
@@ -55,6 +53,7 @@ h3 {
 .background {
     text-align: center;
 }
+
 
 
 
